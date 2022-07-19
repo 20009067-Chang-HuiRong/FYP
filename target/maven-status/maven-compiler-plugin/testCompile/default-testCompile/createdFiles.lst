@@ -1,0 +1,7 @@
+Booker/WebApplication/Model/PublisherTest.class
+Booker/WebApplication/Bootstrap/BootstrapDataTest.class
+Booker/WebApplication/Model/BookTest.class
+Booker/WebApplication/Model/AuthorTest.class
+Booker/WebApplication/WebApplicationTests.class
+Booker/WebApplication/Controllers/BookControllerTest.class
+Booker/WebApplication/Controllers/AuthorControllerTest.class

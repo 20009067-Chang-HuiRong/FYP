@@ -1,0 +1,10 @@
+Booker/WebApplication/Bootstrap/BootstrapData.class
+Booker/WebApplication/Controllers/AuthorController.class
+Booker/WebApplication/Repositories/BookRepository.class
+Booker/WebApplication/WebApplication.class
+Booker/WebApplication/Model/Publisher.class
+Booker/WebApplication/Model/Author.class
+Booker/WebApplication/Model/Book.class
+Booker/WebApplication/Controllers/BookController.class
+Booker/WebApplication/Repositories/AuthorRepository.class
+Booker/WebApplication/Repositories/PublisherRepository.class
